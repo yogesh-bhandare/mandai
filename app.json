@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "mandai",
+    "slug": "mandai-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#F3FFFA"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#F3FFFA"
+      },
+      "package": "com.yogesh8.mandai"
+    },
+    "web": {
+      "favicon": "./assets/favicon.jpg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "15909212-a036-4514-b1c6-0b9bc7040830"
+      }
+    }
+  }
+}
