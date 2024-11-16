@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mandai",
-    "slug": "mandai-app",
+    "name": "Mandai",
+    "slug": "Mandai",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.jpg",
@@ -26,8 +26,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "15909212-a036-4514-b1c6-0b9bc7040830"
+        "projectId": "b5c5273a-5c0b-4ced-ab04-ab79e0d0a506"
       }
-    }
+    },
+    "owner": "yogesh8"
   }
 }
