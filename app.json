@@ -4,7 +4,7 @@
     "slug": "Mandai",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.jpg",
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -26,7 +26,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "b5c5273a-5c0b-4ced-ab04-ab79e0d0a506"
+        "projectId": "f2568877-2baf-4c86-885e-65732d765a8b"
       }
     },
     "owner": "yogesh8"
