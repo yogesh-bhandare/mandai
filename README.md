@@ -40,6 +40,6 @@ The lack of transparency in agricultural trading leads to unfair pricing and red
 
 You can download and use the Mandai app to explore its features and functionality. Click the link below to download the app or scan qr:
 
-[Download Mandai App](https://github.com/yogesh-bhandare/mandai-backend-api)
+[Download Mandai App](https://expo.dev/accounts/yogesh8/projects/Mandai/builds/685faafc-5723-417f-8b78-d2ede7a23d12)
 
 ![Scan to Download](assets/apkqr.png)
