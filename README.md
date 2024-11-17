@@ -8,10 +8,11 @@
     </p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="assets/demo.gif" alt="Image or GIF" style="width: 300px; border-radius: 10px;">
+    <img src="assets/demo.gif" alt="Image or GIF" style="height: 300px; border-radius: 10px;">
   </div>
 </div>
 
+<img src="assets/demo.gif" alt="Mandai Demo" style="height: 300px;">
 
 
 ### Motivation
