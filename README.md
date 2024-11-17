@@ -8,9 +8,10 @@
     </p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="assets/demo.gif" alt="Image or GIF" style="width: 100%; max-width: 300px; border-radius: 10px;">
+    <img src="assets/demo.gif" alt="Image or GIF" style="max-width: 300px; border-radius: 10px;">
   </div>
 </div>
+
 
 
 ### Motivation
